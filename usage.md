@@ -1,8 +1,8 @@
 Here's some usage examples for the code :)
 
 ### Hono
-```js
-const handle = requir('./hono.cjs');
+```javascript
+const handle = require('./hono.cjs');
 /*
   OR
   import handle from './hono.mjs';
